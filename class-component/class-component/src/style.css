@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #b2e4d3;
+}
+
+header{
+    
+    padding: 10px;
+}
+table{
+    border: 1px solid #67dbb5!important;
+    background: #20775a!important;
+    color: aliceblue!important;
+}
+
